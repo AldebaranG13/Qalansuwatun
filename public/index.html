@@ -3,10 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Qalansuwatun | Test</title>
+    <link rel="icon" type="image/png" href="images/qalansuwatun_logo.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="preload" href="fonts/cairo-v31-arabic_latin_latin-ext-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" as="style">
+    <link rel="preload" href="script.js" as="script">
+    <link rel="preload" href="path/to/new-image.png" as="image">
+    <link rel="preload" href="fonts/cairo-v31-arabic_latin_latin-ext-700.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preconnect" href="https://xlcddxyhyeiobshauilo.supabase.co">
+    <link rel="dns-prefetch" href="https://xlcddxyhyeiobshauilo.supabase.co">
+    <title>Home</title>
+
+    <!-- Preloads -->
+    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="images/qalansuwatun_logo.png" as="image">
+    <link rel="preload" href="https://static.wixstatic.com/media/900868_9b713e80f389424d99252b13a35b2679~mv2.png/v1/fill/w_1351,h_760,al_c,q_90,usm_0.33_1.00_0.00,enc_auto/900868_9b713e80f389424d99252b13a35b2679~mv2.png" as="image">
 </head>
 <body>
-  <header><h1>test for qalansuwatun website</h1></header>
+
+  <!--Header -->
+  <div class="header" style="display: flex; align-items: baseline; justify-content: center;">
+    <img src="images/qalansuwatun_logo.png" width="70" height="70" style="position: relative; top: 15px;">
+    <span style="font-size: 50px; font-family: var(--cairo); margin-left: -5px;">alansuwatun</span>
+    <span style="font-size: 15px; font-family: 'IBM Plex Sans Arabic', sans-serif; color: #8b949e; margin-left: 2px;">.pages.dev</span>
+  </div>
+
+  <!-- Navigation Bar / Navbar -->
+  <div class="nav-placeholder"></div>
+
+  <!-- Top Filler -->
+  <div class="top-filler">
+    <img id="hero-img" style="display: block; margin: 20px auto 0 auto; border-radius: 15px;" width="80%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwCJYSnbBLMEGWKfSnWRGC_34iCCKkxePpg&s">
+    <p id="hero-img-text" style="text-align: left; font-family: var(--cairo); font-size: 14.5px; width: 80%; margin: 0 auto;">hero-img-text</p>
+  </div>
+
+  <!-- Slide-in Intro -->
+  <div class="slidein-intro">
+    <div class="follow-scroll">
+      <h1 class="scroll-tether main-title" style="text-align: center; font-size: 100px; font-family: var(--ibmPlexSansArabic);">Qalansuwatun</h1>
+      <h2 class="scroll-tether sub-title" style="text-align: center; margin-top: -50px; font-size: 30px; font-family: var(--cairo);">The place to exchange any knowledge</h2>
+      <h3 class="scroll-tether footer-note" style="text-align: center; margin-top: -5px; font-size: 15px; font-family: var(--cairo);">(mostly software development)</h3>
+    </div>
+  </div>
+
+  <!-- Main Content Area -->
+
+  <!-- CodeHub Card -->
+  <div class="card-container" style="max-width: 80%; display: block; margin: 0 auto 0 auto;">
+    <div class="card"><span class="material-symbols-outlined card-icon" style="font-size: 35px;">code</span>
+      <h1 style="font-family: var(--ibmPlexSansArabic); font-size: 75px">CodeHub</h1>
+      <span style="font-family: var(--cairo); font-size: 25px;">Your go-to place for coding. Share code, ask questions, and collaborate on repositories with fellow devs.</span>
+      <div class="terminal">
+        <div class="terminal-header">
+          <span class="dot close"></span><span class="dot min"></span><span class="dot max"></span>
+          <span class="terminal-title">bash</span>
+        </div>
+        <pre style="font-size: 20px;">
+          <code>
+for (attempts = 0; attempts < success; attempts++) {
+  try.doingit;
+  if (attempt == fail) {
+      try.again;
+      never.giveup;
+  }
+}
+          </code>
+        </pre>
+      </div>
+    </div>
+  </div>
+
+  <!-- Resources Card -->
+  <div class="card-container" style="max-width: 80%; display: block; margin: 0 auto 0 auto;">
+    <div class="card"><span class="material-symbols-outlined card-icon" style="font-size: 35px;">video_library</span>
+      <h1 style="font-family: var(--ibmPlexSansArabic); font-size: 75px">Resources</h1>
+      <span style="font-family: var(--cairo); font-size: 25px;">Watch tutorials, software reviews, and guides to improve your programming skills. Dive into the tech world.</span>
+      <iframe 
+        style="width: 100%; aspect-ratio: 16 / 9; border-radius: 15px; margin-top: 20px;" 
+        src="https://www.youtube-nocookie.com/embed/EFmxPMdBqmU" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
 

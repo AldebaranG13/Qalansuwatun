@@ -1,0 +1,357 @@
+/* All the Fonts */
+
+/* IBM Plex Sans Arabic */
+/* ibm-plex-sans-arabic-100 - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 100;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* ibm-plex-sans-arabic-200 - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 200;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* ibm-plex-sans-arabic-300 - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 300;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* ibm-plex-sans-arabic-regular - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* ibm-plex-sans-arabic-500 - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* ibm-plex-sans-arabic-600 - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* ibm-plex-sans-arabic-700 - arabic_cyrillic-ext_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/ibm-plex-sans-arabic-v14-arabic_cyrillic-ext_latin_latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/*Cairo*/
+/* cairo-200 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 200;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-300 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 300;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-regular - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-500 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-600 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-700 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-800 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 800;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cairo-900 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 900;
+  src: url('fonts/cairo-v31-arabic_latin_latin-ext-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/*Amiri*/
+/* amiri-regular - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/amiri-v30-arabic_latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* amiri-italic - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Amiri';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/amiri-v30-arabic_latin_latin-ext-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* amiri-700 - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/amiri-v30-arabic_latin_latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* amiri-700italic - arabic_latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Amiri';
+  font-style: italic;
+  font-weight: 700;
+  src: url('fonts/amiri-v30-arabic_latin_latin-ext-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Root */
+:root {
+  /* Font Shortcuts */
+  --cairo: 'Cairo', sans-serif;
+  --ibmPlexSansArabic: 'IBM Plex Sans Arabic', sans-serif;
+  --amiri: 'Amiri', serif;
+
+  /* Weight shortcuts */
+  --weight-thin: 100;
+  --weight-light: 300;
+  --weight-regular: 400;
+  --weight-bold: 700;
+
+  /* Dynamic Background */
+  --scroll-angle: 0deg;
+
+  /* Terminal Styling */
+  --terminal-width: 100px; /* Adjustable: change this value to resize terminal (kept for backward compatibility) */
+  --terminal-padding: 50px; /* Padding around content */
+  --terminal-bg: linear-gradient(180deg,#02040a,#071125);
+  --terminal-text: #c9d1d9;
+  --terminal-accent: #58d68d;
+}
+
+body {
+    background: linear-gradient(var(--scroll-angle), #0d1117 0%, #161b22 50%, #0d1117 100%);
+    background-attachment: fixed;
+    transition: background 0.1s ease-out;
+    min-height: 100vh;
+    color: white;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* Navbar Styling */
+.navbar {
+    width: 100%;
+    padding: 5px 0;
+    font-family: var(--cairo);
+    font-size: 25px;
+    background: rgba(0, 0, 0, 0.5);
+    margin: auto;
+}
+
+.nav-placeholder {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-around; /* Spreads logo and menu apart */
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navbar-logo {
+    height: 35px;
+    width: 35px;
+    transform: scale(1.7);
+    transform-origin: center;
+}
+
+.navbar-menu {
+    display: flex;
+    list-style: none; /* Removes the dots! */
+    gap: 30px;        /* Space between Home, About, etc. */
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-menu a {
+    color: #8b949e;   /* Subtle gray */
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.navbar-menu a:hover {
+    color: white;     /* Glows white on hover */
+}
+
+/* Title Slide on Homepage */
+.scroll-tether {
+    opacity: 0;
+    white-space: nowrap;
+    will-change: transform, opacity;
+}
+
+/* Top Filler / Hero Section */
+.top-filler {
+    width: 100%;
+    padding: 40px 0;
+    display: block;
+}
+
+.slidein-intro {
+    height: 150vh;
+    position: relative;
+    margin-top: -500px;
+}
+
+.follow-scroll {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Cards */
+.card {
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+/* Terminal */
+
+.terminal {
+  width: fit-content;            /* size to content */
+  max-width: 100%;              /* don't overflow small viewports */
+  padding: var(--terminal-padding); /* use variable for consistent control */
+  background: var(--terminal-bg);
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.7), inset 0 1px 0 rgba(255,255,255,0.02);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Fira Code", monospace;
+  font-size: 20px;
+  color: var(--terminal-text);
+  border: 1px solid rgba(255,255,255,0.04);
+  position: relative;
+  overflow: auto;
+  margin: 0 auto 50px;          /* center horizontally */
+}
+
+.terminal-header {
+  display:flex;
+  align-items:center;
+  gap:8px;
+  margin-bottom:5px;
+}
+.terminal-header .dot { width:12px; height:12px; border-radius:50%; display:inline-block; }
+.terminal-header .close { background:#ff5f57; }
+.terminal-header .min { background:#ffbd2e; }
+.terminal-header .max { background:#27c93f; }
+.terminal-title {
+  margin-left:auto;
+  font-size:12px;
+  color:#8b949e;
+}
+
+.terminal pre {
+  margin:0;
+  background:transparent;
+  color:inherit;
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 1.4;
+  overflow-x:auto;
+  white-space: pre;
+}
+.terminal code { display:block; }
+
+@media (min-width: 600px) {
+  .terminal { font-size: 13px; }
+}
+
+/* Fixes the invisible whitespace while keeping the code look clean */
+
+pre {
+  display: flex;
+  overflow: hidden;
+  white-space: pre;
+}
